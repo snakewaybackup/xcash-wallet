@@ -1,5 +1,11 @@
 ﻿# Download
 
+All Releases:
+
+https://github.com/snakewaybackup/xcash-wallet/releases
+
+Extra:
+
 http://download.oiwm.com:4125/files/xcash.apk
 
 # Xcash-Wallet
