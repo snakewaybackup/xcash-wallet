@@ -8,7 +8,7 @@ Extra:
 
 https://pan.baidu.com/s/1JUZ2KMpO3NiyNrDjpgM7ig
 
-http://download.oiwm.com:4125/files/xcash.apk
+http://download.oiwm.com:4125/files/apks/xcash1.0.3.apk
 
 # Xcash-Wallet
 
