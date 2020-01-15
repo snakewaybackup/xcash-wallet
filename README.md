@@ -2,7 +2,7 @@
 
 http://download.oiwm.com:4125/files/xcash.apk
 
-# XWallet
+# Xcash-Wallet
 
 XCASH Android Wallet. If you have two mobile phone, you can use one of offline mobile to generate a mnemonic, export private view key and import the private view key to the other networked mobile phone to implement the cold wallet and view the assets. It is highly safe for your xcash assets.
 
