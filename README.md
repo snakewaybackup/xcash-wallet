@@ -2,6 +2,7 @@
 
 All Releases:
 https://github.com/snakewaybackup/xcash-wallet/releases
+
 Extra:
 https://download.oiwm.com/xcash1.0.4.apk
 https://pan.baidu.com/s/1GlLHcAthHJVwmxJL9d5zjg  code:rivt 
