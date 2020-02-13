@@ -1,14 +1,10 @@
 ﻿# Download
 
 All Releases:
-
 https://github.com/snakewaybackup/xcash-wallet/releases
-
 Extra:
-
-https://pan.baidu.com/s/10eyh6FDm-U_WHCTjqiEZfg
-
-http://download.oiwm.com:4125/files/apks/xcash1.0.3.apk
+https://download.oiwm.com/xcash1.0.4.apk
+https://pan.baidu.com/s/1GlLHcAthHJVwmxJL9d5zjg  code:rivt 
 
 # Xcash-Wallet
 
@@ -32,9 +28,9 @@ Windows CMD: certutil -hashfile FILENAME SHA256
 
 Linux CMD: sha256sum FILENAME
 
-# Version v1.0.3
+# Version v1.0.4
 
-Apk File SHA256:6fb49392abc5670ac718622468318c3adc7ec89f922330de4546b161b8ebda31
+Apk File SHA256:f6f6c5ea6b75b17283feaaa811d1e290c2b38bfb059ed073598bbd63b231d1b3
 
 Signature information checked inside the app:
 
