@@ -8,7 +8,8 @@ https://download.oiwm.com/xcash1.0.4.apk
 
 https://pan.baidu.com/s/1GlLHcAthHJVwmxJL9d5zjg code:rivt 
 
-If from China,can use this node to speed:xcash-china1.oiwm.com:18281|xcash-china2.oiwm.com:18281|xcash.oiwm.com:18281
+If from China,can use this node to speed:
+xcash-china1.oiwm.com:18281|xcash-china2.oiwm.com:18281|xcash.oiwm.com:18281
  
 # Xcash-Wallet
 
